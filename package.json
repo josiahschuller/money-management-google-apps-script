@@ -4,6 +4,11 @@
   "version": "1.0.0",
   "description": "Google Apps Script (container-bound) that syncs Up bank transactions into spreadsheet logs.",
   "scripts": {
+    "lint": "eslint .",
     "test": "node --test"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.15.0"
   }
 }
