@@ -1,0 +1,9 @@
+{
+  "name": "money-management-google-apps-script",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Google Apps Script (container-bound) that syncs Up bank transactions into spreadsheet logs.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
